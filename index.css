@@ -1,0 +1,130 @@
+#topheader{
+    background-color: #5e068a;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    color: white;
+    padding: 0px 5%;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+
+}
+body{
+    margin: 0%;
+}
+.a1{
+    padding: 0px 5%;
+}
+.first:hover{
+    
+    color: #5e068a;
+    
+}
+
+.carousel-caption{
+ margin-bottom: 100px;
+ margin-right: 100px;
+ 
+}
+
+ .viewcourse{
+    background-color: #5e068a;
+    border-radius: 200px;
+    border: 0px;
+    border-radius: 29px;
+    height: 58px;
+    width: 171px;
+    margin-left: -71%;
+    color: white;
+    
+
+ }
+ .headings{
+    text-align:left;
+ }
+.imagesize{
+    height: 500px;
+    filter: brightness(50%);
+}
+input,textarea,select{
+    border-style: none;
+    
+}
+input:focus,textarea{
+    outline:none;
+}
+.buttonclr{
+    background-color: #5e068a;
+    color: white;
+    width: 150px;
+    border-style: none;
+
+}
+.btn-close{
+    float: right;
+}
+.btn-primary{
+   margin-left: 50px;
+   margin-top: 20px;
+    
+}
+.text-start{
+    text-align: start;
+}
+.buttonlearnmore{
+    background-color: #5e068a;
+    color: white;
+    width: 150px;
+    border-style: none;
+    border-radius:29px;
+    height: 55px;
+
+
+}
+.luminar{
+    color: #5e068a;
+    
+}
+.bx{
+    padding: 40px 100px 0 100px;
+    
+}
+.cinclr{
+    color: blueviolet;
+}
+.head-color{
+    color: #5e068a;
+}
+.head-color2{
+    color: blueviolet;
+}
+
+.w-100{
+    width: 100px;
+}
+.datascience{
+background-color: rgb(255, 255, 255);
+ padding-bottom: 30px;
+
+}
+.datatext{
+    color: #5e068a;
+}
+.viewmore{
+    color: #5e068a;
+}
+.fav{
+    margin-top: 50px;
+    margin-bottom: -25px;
+}
+.fav2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+
+
+
+
